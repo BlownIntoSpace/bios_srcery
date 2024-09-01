@@ -1,5 +1,5 @@
 title-text: ""
-desktop-color: "#303030"
+desktop-color: "#1C1B19"
 terminal-font: "VGA Regular 16"
 
 #menu
